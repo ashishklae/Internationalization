@@ -32,7 +32,20 @@ public class Hello {
 		
 		System.out.println("From Ashish");
 		System.out.println("From Ashish123");
+<<<<<<< HEAD
+=======
+		
+		int x;
+		String a1="mahesh";
+		
+		
+		System.out.println("maheshrao");
+		System.out.println("mahesh tambe");
+		
+>>>>>>> refs/heads/commit4branch
 
+		
+		
 	}
 
 }
