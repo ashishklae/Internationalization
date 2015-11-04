@@ -9,6 +9,8 @@ public class Hello {
 
 		System.out.println("Test 3");
 		
+		System.out.println("Test 4");
+		
 		
 		
 
