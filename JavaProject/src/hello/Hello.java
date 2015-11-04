@@ -8,12 +8,21 @@ public class Hello {
 		System.out.println("Test 2"); 
 
 		System.out.println("Test 3");
-		
 		System.out.println("Test 4");
+<<<<<<< HEAD
 		System.out.println("Test 3");
 		System.out.println("Test 0");
 		System.out.println("Test 1");
 		System.out.println("Test 2");
+=======
+		
+		int a=10;
+		int b=10;
+		int c=a+b;
+		System.out.println("Test 5");
+		System.out.println("Addition="+c);
+		
+>>>>>>> branch 'master' of ssh://sample@192.168.1.29/gitdemo/repos/test.git
 		
 		
 
