@@ -31,14 +31,14 @@ public class Hello {
 		System.out.println("From Mahesh");
 		
 		System.out.println("From Ashish");
-<<<<<<< HEAD
+
 		System.out.println("From Ashish123");
-=======
+
 		
 		System.out.println("ashgdvasghd");
 		
 		
->>>>>>> branch 'master' of ssh://Sample@192.168.1.29/gitdemo/repos/test.git
+
 
 	}
 
