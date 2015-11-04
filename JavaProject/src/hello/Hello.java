@@ -33,13 +33,29 @@ public class Hello {
 		System.out.println("From Ashish");
 
 		System.out.println("From Ashish123");
+<<<<<<< HEAD
 
 		
 		System.out.println("ashgdvasghd");
 		
 		
 
+=======
+<<<<<<< HEAD
+=======
+		
+		int x;
+		String a1="mahesh";
+		
+		
+		System.out.println("maheshrao");
+		System.out.println("mahesh tambe");
+		
+>>>>>>> refs/heads/commit4branch
+>>>>>>> branch 'master' of ssh://Sample@192.168.1.29/gitdemo/repos/test.git
 
+		
+		
 	}
 
 }
