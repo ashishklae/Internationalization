@@ -23,7 +23,10 @@ public class Hello {
 		System.out.println("Addition="+c);
 		//Makes
 		
-
+		System.out.println("Test null");
+		System.out.println("Test fixed");
+		System.out.println("Test ok");
+		System.out.println("Test done");
 		
 		
 
