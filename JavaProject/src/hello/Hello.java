@@ -30,8 +30,19 @@ public class Hello {
 		
 		System.out.println("From Mahesh");
 		
+		System.out.println("From Ashish");
+		System.out.println("From Ashish123");
+		
+		int x;
+		String a1="mahesh";
+		
+		
+		System.out.println("maheshrao");
+		System.out.println("mahesh tambe");
 		
 
+		
+		
 	}
 
 }
