@@ -42,16 +42,15 @@ public class Hello {
 		int xy,b1;
 		int abc;
 		
-<<<<<<< HEAD
+
 			
 		
 	}
 	
 	
 	void addInteger(int xy,int b1){
-=======
 		System.out.println("Head first java");
->>>>>>> branch 'master' of ssh://Sample@192.168.1.29/gitdemo/repos/test.git
+
 		
 	int c=xy+b1;
 		
