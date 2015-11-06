@@ -51,10 +51,14 @@ public class Hello {
 		System.out.println("Commited");
 		
 		int xy,b1;
+<<<<<<< HEAD
 		
 		xy=1000;
 		b1=200;
 		
+=======
+		int abc;
+>>>>>>> branch 'master' of ssh://Sample@192.168.1.29/gitdemo/repos/test.git
 		
 		
 		
