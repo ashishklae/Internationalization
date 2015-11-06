@@ -52,6 +52,9 @@ public class Hello {
 		
 		int xy,b1;
 		
+		xy=1000;
+		b1=200;
+		
 		
 		
 		
