@@ -37,23 +37,21 @@ public class Hello {
 		System.out.println("nikhiol");		
 		System.out.println("mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm");		
 		System.out.println("hello maya, how r u");		
-		System.out.println("hello maya, how r u");
+		System.out.println("Commited");
 		
 		int xy,b1;
 		int abc;
 		
-<<<<<<< HEAD
+		System.out.println("Addition="+Hello.addInteger(10, 20));
 			
 		
 	}
 	
 	
-	void addInteger(int xy,int b1){
-=======
+	 static int  addInteger(int xy,int b1){
 		System.out.println("Head first java");
->>>>>>> branch 'master' of ssh://Sample@192.168.1.29/gitdemo/repos/test.git
 		
-	int c=xy+b1;
+	return (xy+b1);
 		
 	
 	}
